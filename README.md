@@ -7,6 +7,9 @@ EO4贴图简体中文本地化文件
 /romfs/Mori4stex/Camp  
 /romfs/Mori4stex/CHARAMAKE  
 /romfs/Mori4stex/Debug  
+/romfs/Mori4stex/Dungeon  
+/romfs/Mori4stex/Effect  
+/romfs/Mori4stex/Facility  
 /romfs/Mori4stex/Keyboard  
 /romfs/Mori4stex/Option  
 /romfs/Mori4stex/Result  
